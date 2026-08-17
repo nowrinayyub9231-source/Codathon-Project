@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard built during a data analytics codathon to analyze home appliance sales performance, product trends, and regional distribution — translating raw sales data into clear, actionable business insights under time pressure.
 
-[Dashboard Screenshot](
+[Dashboard Screenshot](https://github.com/nowrinayyub9231-source/Codathon-Project/blob/main/Dashboard%20Overview.png)
 
 ---
 
